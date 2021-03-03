@@ -1,4 +1,4 @@
-package org.spring.notes.service;
+package org.spring.examples.notes.service;
 
 import org.springframework.stereotype.Service;
 
